@@ -1,0 +1,20 @@
+{{ partial "header.html" . }}
+
+<div id=date>
+    <p>{{ .Site.Params.desc }}</p>
+</div>
+<section style="text-align:center" id=content>
+  <h1>فهرست مطالب<h1/>
+  <ul class=posts_listing>
+    {{ range .Pages.ByPublishDate }}
+      <li>
+        <h3>
+          <a href="{{ .Permalink }}" target="_blank">{{ .Title }}</a>
+        </h3>
+      </li>
+    {{ end }}
+  </ul>
+</section>
+
+{{ partial "footer.html" . }}
+

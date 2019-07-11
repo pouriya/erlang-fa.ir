@@ -1,0 +1,28 @@
+baseurl = "http://pouriya.org"
+
+languageCode = "fa-IR"
+
+title = "Erlang Farsi"
+
+author = "Pouriya Jahanbakhsh"
+
+canonifyurls = true
+
+languagecode = "en"
+
+theme = "black-and-light"
+
+pygmentsstyle       = "bw"
+pygmentscodefences  = true
+
+copyRight = "2019 © erlang-fa.ir"
+
+googleAnalytics = ""
+
+
+[params]
+  desc = "ارلنگ يک زبان برنامه‌نویسی تابع‌گرا (Functional) برای توسعه برنامه‌های همروند (Concurrent)، توزیع شده (Distributed)، بی‌درنگ (Soft real-time) و بدون توقف (Non-stop) است که امکان تغییر کد های برنامه‌نویسی در زمان اجرا (Hot swapping) را نیز به ما میدهد."
+  sitename = "Erlang"
+  disableWebFonts = false
+  siteGitURL = "https://github.com/pouriya-jahanbakhsh/erlang-fa.ir"
+
