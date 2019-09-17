@@ -26,6 +26,15 @@
       {{ end }}
     </title>
     <link rel="canonical" href="{{ .Permalink }}">
+    {{ if .Title }}
+      <meta property="og:title" name="og:title" content="{{ .Title }}" />
+    {{ else }}
+      <meta property="og:title" name="og:title" content="{{ .Site.Title }}" />
+    {{ end }}
+    <meta property="og:type" name="og:type" content="article" />
+    <meta property="og:url" name="og:url" content="{{ .Permalink }}" />
+    <meta property="og:locale" name="og:locale" content="fa_IR" />
+    <meta property="og:site_name" name="og:site_name" content="ارلنگ" />
 
     {{ partial "styles.html" . }}
 
