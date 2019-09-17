@@ -22,6 +22,9 @@
     {{ end }}
   </div>
 </section>
+{{ if .Params.twitter  }}
+  <p style="text-align:center">اگر پیشنهاد یا انتقادی دارید از <a href="{{ .Params.twitter }}">این لینک</a> در توییتر استفاده کنید</p>
+{{ end }}
 
 {{ partial "footer.html" . }}
 
