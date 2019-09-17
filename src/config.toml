@@ -25,4 +25,4 @@ googleAnalytics = ""
   sitename = "Erlang"
   disableWebFonts = false
   siteGitURL = "https://github.com/pouriya-jahanbakhsh/erlang-fa.ir"
-
+  twitter = "ErlangFarsi"
