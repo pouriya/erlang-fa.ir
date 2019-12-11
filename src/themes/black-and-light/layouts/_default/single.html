@@ -26,10 +26,10 @@
   <p style="text-align:center">اگر پیشنهاد یا انتقادی دارید از <a href="{{ .Params.twitter }}">این لینک</a> در توییتر استفاده کنید</p>
 {{ end }}
 
-{{ if .Params.comments  }}
+{{ if .Site.Params.comments  }}
 
-<div id="disqus_thread"></div>
-<script>
+  <div id="disqus_thread"></div>
+  <script>
 
 /**
 *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
@@ -46,8 +46,8 @@ s.src = 'https://erlang-fa-ir.disqus.com/embed.js';
 s.setAttribute('data-timestamp', +new Date());
 (d.head || d.body).appendChild(s);
 })();
-</script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+  </script>
+  <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 {{ end }} 
 {{ partial "footer.html" . }}
 
