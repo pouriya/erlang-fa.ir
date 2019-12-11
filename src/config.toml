@@ -26,3 +26,12 @@ googleAnalytics = ""
   disableWebFonts = false
   siteGitURL = "https://github.com/pouriya-jahanbakhsh/erlang-fa.ir"
   twitter = "ErlangFarsi"
+
+
+[[menu.main]]
+    name = "DONATE"
+    url  = "https://idpay.ir/codefather"
+
+[[menu.main]]
+    name = "Contribute"
+    url  = "https://github.com/Pouriya-Jahanbakhsh/erlang-fa.ir"
