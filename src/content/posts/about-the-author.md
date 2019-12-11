@@ -8,5 +8,12 @@ date = "2019-06-21T00:00:01"
 
 ![پوریا جهانبخش](/posts/images/erlang-fa.ir-about-the-author-01.jpg)
 
-و دلیل انتخاب این عکس هم اینه که به نظرم بازوم توش خیلی خفن افتاده! از سابقه کاری رسمیم در ارلنگ هم باید بگم که در سطح مطلوبی در بستر پیامرسانی کار کردم و همچنین در [صفحه ی گیتهابم](https://github.com/Pouriya-Jahanbakhsh?tab=repositories&language=erlang&type=source) یه مشت پروژه ارلنگی دارم که چند تاییشون در دنیای واقعی توسط خودم و بقیه ارلنگ کار ها استفاده شده و فیدبک های خوبی هم ازشون گرفتم. یک بار هم یک باگی رو در کتابخانه استاندارد خود ارلنگ پیدا کردم و خودم مشارکت کردم و [درستش کردم](https://github.com/erlang/otp/commit/eefcc985530acbd5cc4c97b6e4f537492fd61622#diff-f1d31bd7a3ecebdaaf2f08eabecdbdb3).
-<p style="text-align:left">[codefather.org](http://codefather.org)</p>
+از سابقه کاری رسمیم در ارلنگ هم باید بگم که در سطح مطلوبی در بستر پیامرسانی کار کردم و همچنین در [صفحه ی گیتهابم](https://github.com/Pouriya-Jahanbakhsh?tab=repositories&language=erlang&type=source) یه مشت پروژه ارلنگی دارم که چند تاییشون در دنیای واقعی توسط خودم و بقیه ارلنگ کار ها استفاده شده و فیدبک های خوبی هم ازشون گرفتم. در جامعه ارلنگ‌کار ها هم فعالیت میکنم و چند باری هم کد نسخه رسمی ارلنگ رو بهبود دادم، برای مثال [این باگ که درستش کردم](https://github.com/erlang/otp/commit/eefcc985530acbd5cc4c97b6e4f537492fd61622#diff-f1d31bd7a3ecebdaaf2f08eabecdbdb3).  
+به شخصه برای من اینطور بوده که این ابزار (ارلنگ) تا حد مطلوبی دیدگاهم رو نسبت به ارايه راه حل در مواجه  شدن با مشکلات روتین برنامه نویسی تغییر داده و سعی کردم با این آموزش منجر به این تغییر در بقیه هم بشم.
+
+<p style="text-align:left">
+ <a href="http://pouriya.org">pouriya.org</a>
+ <br/>
+ <a href="http://codefather.org">codefather.org</a>
+</p>
+
