@@ -26,6 +26,7 @@ googleAnalytics = "UA-148453580-1"
   disableWebFonts = false
   siteGitURL = "https://github.com/pouriya-jahanbakhsh/erlang-fa.ir"
   twitter = "ErlangFarsi"
+  comments = true
 
 
 [[menu.main]]
