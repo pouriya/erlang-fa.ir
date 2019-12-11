@@ -17,7 +17,7 @@ pygmentscodefences  = true
 
 copyRight = "2019 © erlang-fa.ir"
 
-googleAnalytics = ""
+googleAnalytics = "UA-148453580-1"
 
 
 [params]
