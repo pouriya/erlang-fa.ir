@@ -13,7 +13,5 @@ date = "2019-06-21T00:00:01"
 
 <p style="text-align:left">
  <a href="http://pouriya.org">pouriya.org</a>
- <br/>
- <a href="http://codefather.org">codefather.org</a>
 </p>
 
