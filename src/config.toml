@@ -1,5 +1,3 @@
-baseurl = "http://erlang-fa.ir"
-
 languageCode = "fa-IR"
 
 title = "Erlang Farsi"

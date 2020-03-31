@@ -1,0 +1,7 @@
+http://localhost:80 {
+        timeouts {
+                idle 30s
+        }
+        log / stdout
+	root {$DEST_DIR}
+}
