@@ -3,8 +3,7 @@
 
 https://erlang-fa.ir {
 	tls {$CADDY_ERLANG_CERT_FULLCHAIN} {$CADDY_ERLANG_PRIVKEY}                  
-	root {$CADDY_ERLANG_DEST_DIR}/en
-	log / stdout
+	root {$CADDY_ERLANG_ROOT_DIR}/en
 	log / "{$CADDY_ERLANG_LOG}" "{proto} {remote} {method} {path} {>User-Agent}" {
 		rotate_size     10
 		rotate_age      7
