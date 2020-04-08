@@ -11,6 +11,7 @@ BASE_URL              = https://erlang-fa.ir
 build:
 	cd src && hugo -b $(BASE_URL) $(HUGO_RECOMMENDED_OPTS) --destination $(WWW_DIR) $(HUGO_OPTS)
 	cat Caddyfile >> $(DEST_DIR)/Caddyfile
+	cat Caddy.env >> $(DEST_DIR)/Caddy.env
 
 
 build-dev:
